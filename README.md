@@ -1,7 +1,8 @@
 # Pre-Bootcamp-Public
-## Coding Dojo Bootcamp PT Online ACC
 
-Some practice and assigments from Pre-bootcamp Intro to Web Development.
+Program: Coding Dojo Bootcamp PT Online Accelerated
+
+Some practice and assigments from Pre-Bootcamp Web Development:
 
 * Intro to JavaScript
 
