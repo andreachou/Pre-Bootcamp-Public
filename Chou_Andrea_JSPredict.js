@@ -1,4 +1,7 @@
-// Predict 1: What will console.log state when this function is called?
+//Pre-bootcamp Web Development
+//Intro to JavaScript
+
+//Predict 1: What will console.log state when this function is called?
 function mybirthYearFunc(){
     console.log("I was born in " + 1980);
 }//I was born in 1980
